@@ -42,4 +42,21 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/apsar7860/people-directory
-   cd your-repository
+   cd people-directory
+
+# This is the UI of Web App:
+
+![Screenshot 2024-08-27 104159](https://github.com/user-attachments/assets/f2673e09-990e-4b2d-9ddf-bfd433df2cb2)
+
+# This is People Directory:
+
+![Screenshot 2024-08-27 104232](https://github.com/user-attachments/assets/1084a2d8-1f6f-4a48-b33e-d7b81acaa9f4)
+
+# This is where you can Add, Edit, Delete, Update Members:
+
+![Screenshot 2024-08-27 104256](https://github.com/user-attachments/assets/780662bc-d73a-450a-a6ff-c54d7cd57326)
+
+# When the search bar is used to search for a name like 'Dana Cronin' 
+The URL should reflect it as -> "http://localhost:3000/people?query=dana%20cronin"
+
+![Screenshot 2024-08-27 104352](https://github.com/user-attachments/assets/b5650c03-8a03-44b7-8ea0-d4a9affd7bcf)
